@@ -36,6 +36,7 @@ even when the app is closed.
 6- Dark Mode:
 
 . Switch between light and dark themes to reduce eye strain.
+
 -------------------------------------------------------------------------------------------------
 
 Technical Stack:
@@ -44,6 +45,7 @@ Technical Stack:
 . State Management: Provider or Riverpod for handling state efficiently.
 . Database: SQLite or Hive for local data storage.
 . Potential Future Enhancements:
+
 -----------------------------------------------------------------------------------------------
 
 Integrate notifications to remind users about pending tasks.
